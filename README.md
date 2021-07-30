@@ -3,8 +3,8 @@ Ce repo contient le code Arduino pour la commande d'un robot mobile, implémenta
 
 # Matériel
 
-Robot mobile
-Arduino UNO
+* Robot mobile
+* Arduino UNO
 Capteur ultrason (HC-SR04)
 l293M motor driver
 2 modules infrarouges (IR Encoder)
